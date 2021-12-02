@@ -5,48 +5,29 @@
 
 </br>
 
-<!-- ************************************* Título ********************************************* -->
+<!-- ************************************* Project ********************************************* -->
 <h1> CRUD React Native com SQLite </h1>
 
-<!-- ************************************* Baadges ********************************************* -->
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/CRUDReactNativeSQLite?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/CRUDReactNativeSQLite">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/CRUDReactNativeSQLite">
-</p>
 
-<p align="center" > Finalizado 31/01/2021 </p> 
+<p align="center" > Finalized 02/12/2021 </p> 
 
-## 🚀 Sobre o Projeto
+## 🚀 About the Project
 </br>
 
-Esse Projeto consiste em um App de Registro de Usuários, com as funcionalidades básicas de um CRUD ( Create / Read / Update / Delete ), utilizando o banco de Dados SQLite para gravação local dos dados. Ao rodar o projeto, ele verifica se o banco existe, caso não exista, ele cria o banco de dados e a estrutura da tabela, para já dar início a utilização do App.
+This Project consists of a User Registration App, with the basic functionalities of a CRUD (Create / Read / Update / Delete), using the SQLite Database for local recording of data. When running the project, it checks if the database exists, if not, it creates the database and the table structure, to start using the App.
 
 </br>
 
-## 🖼️ Imagens do Projeto
+## 🛠️ Built with
 
-</br>
-
-<div align="center">
-  <img src="./assets/1.jpg" alt="Home" width="300px">
-  <img src="./assets/2.jpg" alt="Home" width="300px">
-  <img src="./assets/3.jpg" alt="Home" width="300px">
-  <img src="./assets/5.jpg" alt="Home" width="300px">
-  <img src="./assets/6.jpg" alt="Home" width="300px">
-  <img src="./assets/7.jpg" alt="Home" width="300px">
-</div>
-
-</br>
-
-## 🛠️ Construído com
-
-* [NodeJS](https://nodejs.org/en/) - Ambiente de execução Javascript
+* [NodeJS](https://nodejs.org/en/) - Javascript Runtime Environment
 * [Vs Code](https://code.visualstudio.com/) - IDE
-* [React Native](https://reactnative.dev/) - O framework Mobile usado
-* [Expo](https://expo.io/) - Facilitador de visualização
-* [SQLite](https://www.sqlite.org/index.html) - Banco de Dados
-* [DB Browser for SQLite](https://www.sqlite.org/index.html) - IDE do Banco de Dados
+* [React Native](https://reactnative.dev/) - The Mobile framework used
+* [Expo](https://expo.io/) - Visualization facilitator
+* [SQLite](https://www.sqlite.org/index.html) - Database
+* [DB Browser for SQLite](https://www.sqlite.org/index.html) - Database IDE
+ 
+ <br>
 
 * Dependências
   * @react-native-community/masked-view
@@ -63,31 +44,31 @@ Esse Projeto consiste em um App de Registro de Usuários, com as funcionalidades
 
 </br>
 
-<h3> 🎲 Rodando o Projeto</h3>
+<h3> 🎲 Running the Project</h3>
 
-- É Necessário : 
-    - Ter o Expo Instalado no PC
-    - Ter o Expo Instalado no Celular
+- It is necessary :
+    - Have the Expo Installed on the PC
+    - Have the Expo Installed on Mobile
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/brunoemferreira/CRUDReactNativeSQLite.git
 
-# Acesse a pasta do Projeto
+# Access the Project folder
 $ cd CRUDReactNativeSQLite
 
-# Baixar as dependências
+# Download dependencies
 $ yarn install
-ou
-$ npm install
+or
+$npm install
 
-# execute o comando
+# execute the command
 $ yarn start
-ou
-$ npm start
+or
+$npm start
 
-# O Expo é iniciado no pc mediante o browser e após esse processo acessar o celular e executar o expo
-# e fazer a leitura do QRCode que é mostrado no bowser pelo Expo.
+# Expo is started on the pc using the browser and after this process access the cell phone and run the expo
+# and read the QRCode that is shown in the bowser by Expo.
 ```
 
 ---
