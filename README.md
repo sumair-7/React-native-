@@ -52,10 +52,10 @@ This Project consists of a User Registration App, with the basic functionalities
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/brunoemferreira/CRUDReactNativeSQLite.git
+$ git clone https://github.com/sumair-7/React-native-.git
 
 # Access the Project folder
-$ cd CRUDReactNativeSQLite
+$ cd React-native-
 
 # Download dependencies
 $ yarn install
@@ -72,4 +72,4 @@ $npm start
 ```
 
 ---
-⌨️ com ❤️ por [Bruno Eduardo](https://gist.github.com/brunoemferreira) 😊
+⌨️ with ❤️ by [Sumair](https://github.com/sumair-7) 😊
